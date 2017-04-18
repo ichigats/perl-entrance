@@ -6,4 +6,4 @@
     
     ## Author
     
-    (@ichigats)[https://twitter.com/ichigats]
+    [@ichigats](https://twitter.com/ichigats)
