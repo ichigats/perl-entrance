@@ -2,6 +2,7 @@
 use strict;
 use warnings;
 
+print '数値を入力してください: ';
 my $num = <STDIN>;
 chomp $num;
 
